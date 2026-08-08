@@ -1,15 +1,24 @@
-# Video Downloader
+<div align="center">
+  <h1>⚙️ Download Video</h1>
+  <p><i>Project Repository / Proje Deposu</i></p>
+</div>
 
-## English
-A handy Python tool designed to download videos from various online sources. It uses automation or download libraries to fetch video streams easily.
+<br>
 
-### Technologies
-- Python 3
+## 🇬🇧 English
+Welcome to the **Download Video** repository. This project contains scripts, assets, and source code crafted to solve specific problems or automate tasks.
+
+### ✨ Features
+- 🚀 High performance & clean code structure.
+- 🧩 Easy to integrate and modify.
+- 💻 Built for efficiency.
 
 ---
 
-## Türkçe
-Çeşitli çevrimiçi kaynaklardan video indirmek için tasarlanmış kullanışlı bir Python aracı. Video akışlarını kolayca çekmek için otomasyon veya indirme kütüphanelerini kullanır.
+## 🇹🇷 Türkçe
+**Download Video** reposuna hoş geldiniz. Bu proje, belirli problemleri çözmek veya görevleri otomatikleştirmek amacıyla hazırlanmış betikler, kaynak dosyalar ve kodlar içerir.
 
-### Teknolojiler
-- Python 3
+### ✨ Özellikler
+- 🚀 Yüksek performanslı ve temiz kod yapısı.
+- 🧩 Kolayca entegre edilebilir ve değiştirilebilir.
+- 💻 Verimlilik odaklı geliştirilmiştir.
